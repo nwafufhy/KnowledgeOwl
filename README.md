@@ -6,7 +6,7 @@
 ## 快速开始🚀
 
 1. **了解项目脉络**  
-   → 📖 访问[项目Wiki](wiki/)获取入门指南  
+   → 📖 访问[项目Wiki](https://github.com/nwafufhy/KnowledgeOwl/wiki)获取入门指南  
    → 🗺️ 查看[仓库结构](#仓库结构)理解模块划分
 
 2. **参与知识共建**  
