@@ -11,20 +11,20 @@
 
 2. **参与知识共建**  
    👥 加入讨论：
-   - 进入 [Discussions 面板](discussions) 查看最新技术探讨 
-   - 点击顶部 [Issues 面板](issues) 查看现有议题  
+   - 进入 [Discussions 面板](https://github.com/nwafufhy/KnowledgeOwl/discussions) 查看最新技术探讨 
+   - 点击顶部 [Issues 面板](https://github.com/nwafufhy/KnowledgeOwl/issues) 查看现有议题  
    - 在感兴趣的议题下用"/cc @yourname" 认领任务  
    - 💡 小贴士：点击页面右上角 Watch 按钮接收更新通知
 
 3. **开启你的贡献**  
    🛠️ 初次贡献建议：  
-   1. 点击仓库 [Wiki] 右上角 "Suggest edits" 修正文档错漏  
-   2. 在 [Discussions] 板块回答其他成员的问题  
-   3. 点击 [Projects] 看板了解当前任务进度
+   1. 点击仓库 [Wiki](https://github.com/nwafufhy/KnowledgeOwl/wiki) 右上角 "Suggest edits" 修正文档错漏  
+   2. 在 [Discussions](https://github.com/nwafufhy/KnowledgeOwl/discussions) 板块回答其他成员的问题  
+   3. 点击 [Projects](https://github.com/users/nwafufhy/projects/3) 看板了解当前任务进度
 
 4. **发起新议题**💬  
 🎯 使用标准化模板：  
-   点击 Issues → New issue → 选择「知识缺口提案」模板  
+   点击 Issues → New issue → 选择[🧠知识缺口提案](https://github.com/nwafufhy/KnowledgeOwl/issues/new/choose)模板  
    填写完整后 @项目管理员 进入评审流程
 
 ### 高效协作提示：
@@ -32,8 +32,10 @@
    点击仓库右上角 Watch → Custom → 勾选 Issues 和 Discussions 选项
 
 📌 **推荐起点**  
-   - 查看带 [good-first-issue](issues?q=is:open+label:"good-first-issue") 标签的议题  
-   - 参与 [新人引导讨论](discussions/1) 获取个性化建议
+   - 查看带 [⚙️教程开发](https://github.com/nwafufhy/KnowledgeOwl/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E2%9A%99%EF%B8%8F%E6%95%99%E7%A8%8B%E5%BC%80%E5%8F%91") 标签的议题,并谈论你对该议题的想法
+     - 💡 小贴士：在 issue 讨论中，你可以使用 "/cc @yourname" 命令来请求特定成员参与讨论
+     - 比如你可以说自己想迫切地学习该知识，或者觉得该知识点不重要，请求忽略该议题
+   - 参与 [新人引导讨论](https://github.com/nwafufhy/KnowledgeOwl/discussions/1) 获取个性化建议
 
 ## 仓库结构📦
 ```
